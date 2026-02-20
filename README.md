@@ -16,7 +16,7 @@ Jordan Krause</p>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.packtpub.com/en-us/product/mastering-windows-server-2025-9781837029907"><img width="32px" alt="Graphic Bundle" title="Graphic Bundle" src="https://cdn-icons-png.flaticon.com/512/2659/2659360.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="https://www.amazon.com/Mastering-Windows-Server-2025-Administration/dp/1837029905/"><img width="32px" alt="Amazon" title="Get your copy" src="https://cdn-icons-png.flaticon.com/512/15466/15466027.png"/></a>
+   <a href="[https://www.amazon.com/Mastering-Windows-Server-2025-Administration/dp/1837029905/](https://www.amazon.com/Mastering-Windows-Server-2025-Administrator/dp/1837029911/ref=sr_1_1?dib=eyJ2IjoiMSJ9.DYzvkQkvZZgt2OtNoUcmsT6VcSbyGMNw2t7gKH28xereCbeUMgTUS1df8pzK-sHxf2vHq3c0SrNuyC3b51NmCXMxwHZMYNqSdWeZybqeVMs.0c4hT3-GH6adj1-WZX_9OXHw0MfXwfHjvTk1IIlDRsI&dib_tag=se&keywords=Mastering-Windows-Server-2025-Administration&qid=1771601039&sr=8-1)"><img width="32px" alt="Amazon" title="Get your copy" src="https://cdn-icons-png.flaticon.com/512/15466/15466027.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
