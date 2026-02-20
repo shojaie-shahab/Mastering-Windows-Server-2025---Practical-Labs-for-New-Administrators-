@@ -37,11 +37,10 @@ It is essential to rename the server before promoting it to a Domain Controller 
 
 ### Manual Steps (GUI):
 1. Right-click the Start button and select System.
-
-![Rename Server](../Screenshots/1.jpg)
-
 2. In the About section, click the Rename this PC button.
+ ![Rename Server](../Screenshots/1.PNG)
 3. Enter DC01 as the new computer name.
+ ![Rename Server](../Screenshots/2.PNG)
 4. In the *System Properties* dialog, click **Change**.
 5. Click Next and then select Restart Now to apply the changes.
 6. Click **OK** and **Restart** the server.
@@ -50,7 +49,8 @@ It is essential to rename the server before promoting it to a Domain Controller 
 After rebooting, verify the change using the following command:
 ```powershell
 hostname
-``` 
+```
+ ![Rename Server](../Screenshots/3.PNG) 
 
 Next Step:
 Now that the server is named DC01, we need to set the Static IP.
@@ -70,7 +70,7 @@ A Domain Controller must have a static IP address to ensure that clients and oth
    - **Preferred DNS server:** `127.0.0.1` (Points to itself)
 6. Click **OK** and then **Close**.
 
-![Network Settings](../Screenshots/5.png)
+![Network Settings](../Screenshots/5.PNG)
 
 ### Verification:
 Open **Command Prompt** or **PowerShell** and run:
@@ -84,12 +84,14 @@ In this step, we install the Active Directory Domain Services role using the Ser
 
 ### Manual Steps:
 1. Open **Server Manager** and click **Manage** > **Add Roles and Features**.
+![AD DS Installation](../Screenshots/6.PNG)
 2. On the **Installation Type** screen, select **Role-based or feature-based installation** and click **Next**.
 3. Select **DC01** from the server pool and click **Next**.
 4. In the **Server Roles** list, check the box for **Active Directory Domain Services**.
+![AD DS Installation](../Screenshots/7.PNG)
 5. A popup will appear; click **Add Features** to include the required management tools, then click **Next**.
 6. Continue clicking **Next** through the Features and AD DS tabs (keep defaults).
 7. On the **Confirmation** screen, click **Install**.
 
-![AD DS Installation](../Screenshots/3.png)
+![AD DS Installation](../Screenshots/8.PNG)
 
