@@ -1,15 +1,15 @@
-# Mastering-Windows-Server-2025---Practical-Labs-for-New-Administrators-
-Mastering Windows Server 2025 - Practical Labs for New Administrators, Published by Packt Publishing
 <p align='center'><a href='https://www.packtpub.com/en-us/unlock?step=1'><img src='https://static.packt-cdn.com/assets/images/packt+events/finalGH_design_redeem.png'/></a></p>
 
 <h1 align="center">
-Mastering Windows Server 2025 - Fifth Edition</h1>
-<p align="center">This is the code repository for <a href ="https://www.packtpub.com/en-us/product/mastering-windows-server-2025-9781837029907"> Mastering Windows Server 2025, Fifth Edition</a>, published by Packt.
+Mastering Windows Server 2025, Fifth Edition</h1>
+<p align="center">This is the code repository for <a href ="https://www.packtpub.com/en-us/product/mastering-windows-server-2025-9781837029907"> Mastering Windows Server 2025: Accelerate your journey from IT Pro to System Administrator using the world's most powerful server platform, Fifth Edition</a>, published by Packt.
 </p>
 
 <h2 align="center">
 Accelerate your journey from IT Pro to System Administrator using the world's most powerful server platform
 </h2>
+<p align="center">
+Jordan Krause</p>
 
 <p align="center">
   <a href="https://www.packtpub.com/en-us/product/mastering-windows-server-2025-9781837029907"><img width="32px" alt="Free PDF" title="Free PDF" src="https://cdn-icons-png.flaticon.com/512/4726/4726010.png"/></a>
@@ -17,6 +17,7 @@ Accelerate your journey from IT Pro to System Administrator using the world's mo
   <a href="https://www.packtpub.com/en-us/product/mastering-windows-server-2025-9781837029907"><img width="32px" alt="Graphic Bundle" title="Graphic Bundle" src="https://cdn-icons-png.flaticon.com/512/2659/2659360.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
    <a href="https://www.amazon.com/Mastering-Windows-Server-2025-Administration/dp/1837029905/"><img width="32px" alt="Amazon" title="Get your copy" src="https://cdn-icons-png.flaticon.com/512/15466/15466027.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
 <details open> 
@@ -132,14 +133,8 @@ Written by a 10-time Microsoft MVP with 25 years of IT and technical coaching ex
 </details>
 
 <details> 
-  <summary><h2>Requirements for this book</h2></summary>
-To follow along with the exercises in this repository, you’ll need:
-<ul>
-  <li>Windows Server 2025 Evaluation ISO</li>
-  <li>Hypervisor (Hyper-V, VMware Workstation, or VirtualBox)</li>
-  <li>Minimum 16GB RAM recommended for lab environments</li>
-  <li>Basic familiarity with networking and command-line tools</li>
-</ul>
+  <summary><h2>About the author</h2></summary>
+Jordan Krause is an IT professional of more than 20 years and has received 10 Microsoft MVP awards for his work with Microsoft server and networking technologies. As one of the world's first experts on Microsoft DirectAccess, his authorship journey began with a book on remote access technology and has evolved into numerous writings on more extensive topics such as Windows Server, security, and Group Policy. Jordan lives in beautiful West Michigan (USA) and manages a team of IT engineers spread across the country
 </details>
 
 <details> 
