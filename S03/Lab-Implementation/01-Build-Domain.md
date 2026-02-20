@@ -95,3 +95,13 @@ In this step, we install the Active Directory Domain Services role using the Ser
 
 ![AD DS Installation](../Screenshots/8.PNG)
 
+
+## 🚀 Step 1.4: Promote to Domain Controller
+1. Click the **Notification Flag** in Server Manager and select **Promote this server to a domain controller**.
+2. Select **Add a new forest** and set the name to `devlab.local`.
+3. Set a secure **DSRM Password**.
+4. Follow the wizard (keep default paths) and click **Install**.
+5. The server will reboot automatically.
+
+![Promotion Complete](../Screenshots/4.png)
+
