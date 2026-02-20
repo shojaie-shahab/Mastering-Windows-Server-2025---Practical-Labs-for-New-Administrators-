@@ -61,7 +61,7 @@ A Domain Controller must have a static IP address to ensure that clients and oth
 1. Press `Win + R`, type **ncpa.cpl**, and press **Enter**.
 2. Right-click your network adapter (e.g., *Ethernet*) and select **Properties**.
 3. Select **Internet Protocol Version 4 (TCP/IPv4)** and click **Properties**.
-![Network Settings](../Screenshots/4.png)
+![Network Settings](../Screenshots/4.PNG)
 4. Select **Use the following IP address** and enter the following details:
    - **IP address:** `192.168.10.10`
    - **Subnet mask:** `255.255.255.0`
