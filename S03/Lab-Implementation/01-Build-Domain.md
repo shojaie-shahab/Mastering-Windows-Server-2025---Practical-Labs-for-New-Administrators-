@@ -98,10 +98,23 @@ In this step, we install the Active Directory Domain Services role using the Ser
 
 ## 🚀 Step 1.4: Promote to Domain Controller
 1. Click the **Notification Flag** in Server Manager and select **Promote this server to a domain controller**.
+![AD DS Installation](../Screenshots/9.PNG)
 2. Select **Add a new forest** and set the name to `devlab.local`.
+![AD DS Installation](../Screenshots/10.PNG)
 3. Set a secure **DSRM Password**.
 4. Follow the wizard (keep default paths) and click **Install**.
 5. The server will reboot automatically.
 
-![Promotion Complete](../Screenshots/4.png)
+
+## ✅ Step 1.5: Verification
+After the automatic reboot, follow these steps to verify the installation:
+
+1. **Login:** Ensure you are logging in as `DEVLAB\Administrator`.
+![AD DS Installation](../Screenshots/11.PNG)
+2. **AD Tools:** Go to **Server Manager > Tools** and verify that *Active Directory Users and Computers* is available.
+3. **PowerShell Test:** Run the following command to confirm the domain status:
+   ```powershell
+   Get-ADDomain
+
+![AD DS Installation](../Screenshots/12.PNG)
 
