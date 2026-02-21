@@ -1,4 +1,4 @@
-# Lab 04: Step-by-Step OU and User Implementation
+# Lab 03: Step-by-Step OU and User Implementation
 
 ## 🎯 Objective
 This lab provides a manual, step-by-step guide to building a standardized Organizational Unit (OU) structure and creating user accounts in Windows Server 2025.
