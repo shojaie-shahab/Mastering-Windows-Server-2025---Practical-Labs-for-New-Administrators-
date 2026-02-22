@@ -103,4 +103,5 @@ gpupdate /force
 
 ![both](../Screenshots/29.PNG)
 
+
 As you can see, after running the gpupdate /force command, the 'Coheany POP> L" IS PROVS  THAT SFE GPO has been pulled from the Domain Controller and applied to the user environment without any issues.pplied to the user environment without any issues.
